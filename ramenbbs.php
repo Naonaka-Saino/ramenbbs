@@ -1,5 +1,4 @@
 <?php
-//データベースハンドラ
     $dsn = 'mysql:dbname=データベース名;host=localhost';
 	$user = 'ユーザー名';
     $password = 'パスワード';
